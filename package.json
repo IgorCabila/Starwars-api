@@ -1,12 +1,17 @@
 {
   "name": "starwars-ip",
   "version": "1.0.0",
-  "description": "APi para imagens do filme starwars >>>>>>> 123adfaaf290184f128360f52c3f88deaa9af796",
+  "description": "APi para imagens do filme starwars  desenvolvida em node com mongobd",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Igor  Cabila",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "^6.13.1",
+    "mongoose": "^8.10.2"
+  }
 }
