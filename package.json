@@ -1,0 +1,12 @@
+{
+  "name": "starwars-ip",
+  "version": "1.0.0",
+  "description": "APi para imagens do filme starwars >>>>>>> 123adfaaf290184f128360f52c3f88deaa9af796",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
