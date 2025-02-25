@@ -1,3 +1,6 @@
 # Starwars-api
 APi para imagens do filme starwars
->>>>>>> 123adfaaf290184f128360f52c3f88deaa9af796
+Criado com node.js para backend e mongodb como bando de dados nao relacional.
+tecnologias usadas:
+MongoDb Atlas(NUvem)
+Node.js( mongoose e express)
